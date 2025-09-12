@@ -1,5 +1,5 @@
 body{
-    background-color: blue;
+    background-color: rgba(33, 33, 109, 0.563);
     color: pink;
-    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-family: "Libertinus Keyboard", system-ui;
 }
