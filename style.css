@@ -7,9 +7,10 @@ body{
 }
 
 header{
-    border: double 5px rgb(17, 95, 173);
-font-size: 50px;
 
+font-size: 50px;
+border-top:  double 50px rgb(17, 95, 173);
+        /* margin: 100px * /;
 h1{
     font-size: 40px;
 }
